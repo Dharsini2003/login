@@ -1,0 +1,25 @@
+{
+   "Students": [
+      {
+         "no": 1,
+         "name": "durga",
+         "age": "23",
+         "course": "four month",
+         "email": "durga@gmail.com"
+      },
+      {
+         "no": 2,
+         "name": "yuvan",
+         "age": "45",
+         "course": "three month",
+         "email": "yuvan@gmail.com"
+      },
+      {
+         "no": 3,
+         "name": "divya",
+         "age": "40",
+         "course": "one month",
+         "email": "dfsffffffffffffffff@gsdggggggggg"
+      }
+   ]
+}
